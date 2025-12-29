@@ -19,13 +19,13 @@ border-bottom: 2px solid var(--secondary-color);
 .navbar .nav-item :focus{
     border-bottom: 2px solid var(--secondary-color);
     }
-.hero {
+.hero,.testonimila {
     background-color: var(--background-color);
 }
 .about{
     background-color: var(--light-background-color);
 }
-.logo{
+.logo,{
     border-bottom: 2px solid var(--body-text-color);
 }
 
