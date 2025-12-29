@@ -1,2 +1,2 @@
-# pre-hackaton
-hackaton
+# pre-hackathon
+hackathon
