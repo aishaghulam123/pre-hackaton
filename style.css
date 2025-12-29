@@ -19,15 +19,25 @@ border-bottom: 2px solid var(--secondary-color);
 .navbar .nav-item :focus{
     border-bottom: 2px solid var(--secondary-color);
     }
-.hero,.testonimila {
+.hero,.news,.contact {
     background-color: var(--background-color);
 }
-.about{
+.about,.testonimila,.blog,.portfolios, footer {
     background-color: var(--light-background-color);
 }
-.logo,{
+.logo{
     border-bottom: 2px solid var(--body-text-color);
 }
+footer li{
+   list-style: none;
+
+}
+footer li a{
+  text-decoration: none;
+  color: black;
+
+}
+
 
 
 
